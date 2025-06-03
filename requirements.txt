@@ -1,7 +1,8 @@
 python-dotenv
 pandas
 numpy
-
+pickle
+pyaml
 certifi
 pymongo
 scikit-learn
