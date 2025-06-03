@@ -1,3 +1,8 @@
 python-dotenv
 pandas
 numpy
+
+certifi
+pymongo
+scikit-learn
+#-e .
